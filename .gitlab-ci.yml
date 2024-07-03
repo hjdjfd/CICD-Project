@@ -1,0 +1,4 @@
+build_job:
+   Script:
+        - echo "hello from Gitlab CI-CD Project"
+  
